@@ -3151,9 +3151,10 @@ subarg@^1.0.0:
   dependencies:
     minimist "^1.1.0"
 
-suggest-it@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/suggest-it/-/suggest-it-0.0.1.tgz#bcbd79c299af7b8aa188fcc8abb6d4406136a74c"
+suggest-it@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.npmmirror.com/suggest-it/-/suggest-it-0.0.2.tgz#8621b38f3a066e96f2171f600c198c8f94f53167"
+  integrity sha512-02PgUgqunLCPM9rKkf47L/P28YazrFxMdTsKEIKag+6u9i3NO2z6yBmmdTFJG/zchxsuFDqKqbp1z/Zl9gFUPw==
 
 supports-color@^2.0.0:
   version "2.0.0"

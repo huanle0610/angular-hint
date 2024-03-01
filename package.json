@@ -30,7 +30,7 @@
   "dependencies": {
     "debounce-on": "^0.0.0",
     "eventemitter2": "^4.0.0",
-    "suggest-it": "^0.0.1"
+    "suggest-it": "0.0.2"
   },
   "devDependencies": {
     "angular": "^1.6.3",
